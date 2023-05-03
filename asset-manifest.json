@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thali_app/static/css/main.af596130.css",
+    "main.js": "/thali_app/static/js/main.bfac944a.js",
+    "index.html": "/thali_app/index.html",
+    "main.af596130.css.map": "/thali_app/static/css/main.af596130.css.map",
+    "main.bfac944a.js.map": "/thali_app/static/js/main.bfac944a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af596130.css",
+    "static/js/main.bfac944a.js"
+  ]
+}
